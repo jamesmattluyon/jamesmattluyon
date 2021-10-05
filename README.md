@@ -1,5 +1,5 @@
 
-<a href="#"><img width="85%" height="auto" align="center" src="https://i.imgur.com/u7mkijz.png" height="175px"/></a>
+<a href="#"><img width="85%" height="auto" align="right" src="https://i.imgur.com/u7mkijz.png" height="175px"/></a>
 
 
 
