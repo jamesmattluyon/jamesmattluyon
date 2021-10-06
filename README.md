@@ -17,9 +17,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jamesmatthewluyon.wixsite.com/myrealsite?fbclid=IwAR0Whv-fFa3jc7RKecnwan3mX-H7nhGy8O6gg126YgU23EX99bpTy9HqSQ0)**
 
-- 📫 How to reach me **james.matthew.luyon@adamson.edu.ph**
+- 📫 How to reach me? email me at **james.matthew.luyon@adamson.edu.ph**
 
-- ⚡ Fun facts about me: **I'm see myself as busy always, I play online games minimal or sometimes right now, and I often go to Church to serve to say thanks to God everyday.**
+- ⚡ Fun facts about me: **I'm see myself as busy always, I play online games minimal or sometimes right now, and I often go to Church to say thanks to God everyday.**
 
 ## 🚀 Languages and Tools:
 
