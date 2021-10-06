@@ -37,7 +37,7 @@
     </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     </a>
-    <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="<img src="https://img.icons8.com/fluency/48/000000/visual-basic.png"/> </a> 
+    <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-basic.png"/> </a> 
     </a> 
     <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
 </p>
