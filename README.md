@@ -7,7 +7,7 @@
 <h3 align="center">I'm a passionate person and student from Philippines.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me 
 
 - 🔭 👀 I’m interested in coding, circuits and learning more about algorithms, but I believe it'll be more fun if we could get in touch (kidding aside😂).  <!-- **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**  -->   
 
