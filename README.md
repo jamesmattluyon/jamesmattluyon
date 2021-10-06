@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/jamesmattluyon/github-readme-activity-graph"><img alt="James Luyon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamesmattluyon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=jamesmattluyon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="James Luyon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamesmattluyon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
