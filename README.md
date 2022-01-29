@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Engineering.**
 
-- 💞️ I’m looking to collaborate with young and experience professional in IT industry soon. **OpenSource Projects**
+- 💞️ I’m looking to collaborate with young and experience professional in IT industry soon. Here's my LinkedIn Profile Portfolio **OpenSource Projects(https://ph.linkedin.com/in/jamesmatthewluyon)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jamesmatthewluyon.wixsite.com/myrealsite?fbclid=IwAR0Whv-fFa3jc7RKecnwan3mX-H7nhGy8O6gg126YgU23EX99bpTy9HqSQ0)**
 
 - 📫 How to reach me? email me at **james.matthew.luyon@adamson.edu.ph**
 
-- ⚡ Fun facts about me: **I'm see myself as busy always, I play online games minimal or sometimes right now, and I often go to Church to say thanks to God everyday.**
+- ⚡ Fun facts about me: **I'm see myself as busy always, I play online games minimal or sometimes right now, but if you need me in given circumstance and its important, I'll be there.**
 
 ## 🚀 Languages and Tools:
 
