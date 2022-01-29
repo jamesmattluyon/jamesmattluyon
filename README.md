@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Engineering.**
 
-- 💞️ I’m looking to collaborate with young and experience professional in IT industry soon. Here's my LinkedIn Profile ** Portfolio (https://ph.linkedin.com/in/jamesmatthewluyon)**
+- 💞️ I’m looking to collaborate with young and experience professional in IT industry soon. Here's my **[LinkedIn Profile] (https://ph.linkedin.com/in/jamesmatthewluyon)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jamesmatthewluyon.wixsite.com/myrealsite?fbclid=IwAR0Whv-fFa3jc7RKecnwan3mX-H7nhGy8O6gg126YgU23EX99bpTy9HqSQ0)**
 
