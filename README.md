@@ -74,13 +74,6 @@
 <b>Note:</b> Stats reflect public repositories only and don't represent full experience or skill level.
 
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamesmattluyon&theme=tokyonight&no-frame=true&row=1" alt="James Luyon's GitHub Trophies" />
-</p>
-
-<br/>
-
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/jamesmatthewluyon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
